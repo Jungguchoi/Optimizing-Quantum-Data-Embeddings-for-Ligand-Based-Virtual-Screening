@@ -9,7 +9,7 @@ The materials provided here support the reproducibility and transparency of the 
 ## Authors
 
 Junggu Choi
-Department of Microbial Sciences in Health, Global Center for Pathogen and Human Health Research, Cleveland Clinic Research, Cleveland Clinic, OH, USA
+[Department of Microbial Sciences in Health, Global Center for Pathogen and Human Health Research, Cleveland Clinic Research, Cleveland Clinic, OH, USA]
 
 Tak Hur and Seokhoon Jeong
 Department of Statistics and Data Science, Yonsei University, Seoul, Republic of Korea
