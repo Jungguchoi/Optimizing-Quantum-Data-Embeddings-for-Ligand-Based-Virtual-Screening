@@ -1,1 +1,1 @@
-# Optimizing-Quantum-Data-Embeddings-for-Ligand-Based-Virtual-Screening
+# Optimizing Quantum Data Embeddings for Ligand Based Virtual Screening
